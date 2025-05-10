@@ -1,0 +1,31 @@
+#+title: Anotação artigo 25.º da CH1996
+#+author: João Gomes de Almeida
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil author:nil date:nil
+
+#+LATEX_CLASS: koma-article
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER: \usepackage{titletoc}
+#+LATEX_HEADER: \KOMAoptions{headings=small}
+
+#+bibliography: ~/Dropbox/Bibliografia/BetterBibLatex/bib.bib
+#+cite_export: csl np405.csl
+
+#+begin_quote
+
+#+begin_center
+Artigo 25.º
+#+end_center
+
+A autoridade do Estado requerido está vinculada legalmente à avaliação das provas sobre as quais a autoridade do Estado onde a medida foi tomada baseou a sua competência.
+
+#+end_quote
+
+*Sumário:*
+
+* 1. Secção
+** a) Subsecção
+*** aa) Subsubsecção
+* 2.
+* 3. Bibliografia
+* 4. Lista de jurisprudência
