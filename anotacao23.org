@@ -1,0 +1,43 @@
+#+title: Anotação artigo 23.º da CH1996
+#+author: João Gomes de Almeida
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil author:nil
+
+#+LATEX_CLASS: koma-article
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER: \usepackage{titletoc}
+#+LATEX_HEADER: \KOMAoptions{headings=small}
+
+#+bibliography: ~/Dropbox/Bibliografia/BetterBibLatex/bib.bib
+#+cite_export: csl chicago-fullnote-bibliography.csl
+
+#+begin_quote
+
+Artigo 23.º
+
+1 - As medidas tomadas pelas autoridades de um Estado Contratante serão reconhecidas por força de lei em todos os outros Estado Contratantes.
+
+2 - Todavia, o reconhecimento poderá ser recusado:
+
+  a) Se a medida tiver sido tomada por uma autoridade cuja competência não assenta em nenhum dos fundamentos previstos no capítulo ii;
+
+  b) Se a medida tiver sido tomada, salvo em caso de urgência, num contexto de um processo judiciário ou administrativo, sem se ter concedido à criança a possibilidade de ser ouvida, violando os princípios fundamentais dos procedimentos do Estado requerido;
+
+  c) Se qualquer pessoa apresentar pedido indicando que a medida infringe as suas responsabilidades parentais, se tal medida ter sido tomada, salvo em casos de urgência, sem se ter concedido a essa pessoa a possibilidade de ser ouvida;
+
+  d) Se tal reconhecimento é manifestamente contrário à ordem pública do Estado requerido, tendo em conta os melhores interesses da criança;
+
+  e) Se a medida for incompatível com outra medida posterior tomada no Estado não Contratante da residência habitual da criança, quando esta última medida preencha os requisitos necessários ao reconhecimento no Estado requerido;
+
+  f) Se os procedimentos previstos no artigo 33.º não tiverem sido respeitados.
+
+#+end_quote
+
+*Sumário:*
+
+* 1. Secção
+** a) Subsecção
+*** aa) Subsubsecção
+* 2.
+* 3. Bibliografia
+* 4. Lista de jurisprudência
