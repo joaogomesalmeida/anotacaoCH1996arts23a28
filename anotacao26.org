@@ -1,7 +1,7 @@
 #+title: Anotação artigo 26.º da CH1996
 #+author: João Gomes de Almeida
 #+LANGUAGE: pt
-#+OPTIONS: toc:nil num:nil author:nil date:nil
+#+OPTIONS: toc:nil num:nil author:nil date:nil title:nil
 
 #+LATEX_CLASS: koma-article
 #+LATEX_COMPILER: xelatex
@@ -17,11 +17,11 @@
 Artigo 26.º
 #+end_center
 
-1 - Se as medidas tomadas num Estado Contratante e postas em vigor ali carecerem de execução num outro Estado Contratante, deverão, a pedido da parte interessada, ser declaradas executórias ou registadas com a finalidade de serem executadas nesse outro Estado, de acordo com o procedimento previsto pela lei desse último Estado.
+1. Se as medidas tomadas num Estado Contratante e postas em vigor ali carecerem de execução num outro Estado Contratante, deverão, a pedido da parte interessada, ser declaradas executórias ou registadas com a finalidade de serem executadas nesse outro Estado, de acordo com o procedimento previsto pela lei desse último Estado.
 
-2 - Cada Estado Contratante aplicará um procedimento simples e rápido à declaração de exequatur ou registo.
+2. Cada Estado Contratante aplicará um procedimento simples e rápido à declaração de exequatur ou registo.
 
-3 - A declaração de exequatur ou registo apenas poderá ser recusada com fundamento em um dos motivos previstos no artigo 23.º, n.º 2.
+3. A declaração de exequatur ou registo apenas poderá ser recusada com fundamento em um dos motivos previstos no artigo 23.º, n.º 2.
 
 #+end_quote
 
