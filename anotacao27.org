@@ -23,9 +23,8 @@ Sem prejuízo da análise que seja necessária para a aplicação dos artigos pr
 
 *Sumário:*
 
-* 1. Secção
-** a) Subsecção
-*** aa) Subsubsecção
-* 2.
-* 3. Bibliografia
-* 4. Lista de jurisprudência
+* 1. Introdução
+* 2. Proibição de controlo de mérito
+* 3. Exceções
+* 4. Bibliografia
+* 5. Lista de jurisprudência
