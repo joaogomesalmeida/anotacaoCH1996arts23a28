@@ -35,9 +35,24 @@ Artigo 23.º
 
 *Sumário:*
 
-* 1. Secção
-** a) Subsecção
-*** aa) Subsubsecção
-* 2.
-* 3. Bibliografia
-* 4. Lista de jurisprudência
+* 1. Breves notas gerais sobre o Capítulo IV
+** a) Articulação com o regime de reconhecimento e execução do Regulamento Bruxelas II /ter/
+** b) Objeto do reconhecimento e execução
+*** aa) medidas de proteção
+*** bb) tomadas pelas autoridades de um Estado Contratante
+*** cc) delimitação temporal (art. 53.º)
+* 2. Reconhecimento automático (n.º 1)
+* 3. Fundamentos de recusa do reconhecimento (n.º 2)
+** a) Aspetos gerais
+*** aa) Enumeração exaustiva dos fundamentos de recusa
+*** bb) Possibilidade, não obrigatoriedade, de recusa
+** b) Controlo da competência da autoridade de origem
+** c) Audição da criança
+** d) Audição da pessoa com responsabilidades parentais
+** e) Ordem pública internacional
+** f) Incompatibilidade de medidas de proteção
+** g) Não cumprimento dos procedimentos previstos no artigo 33.º
+* 4. Bibliografia
+#+print_bibliography:
+
+* 5. Lista de jurisprudência
