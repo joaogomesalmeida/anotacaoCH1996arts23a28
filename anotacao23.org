@@ -37,6 +37,16 @@ Artigo 23.º
 
 * 1. Breves notas gerais sobre o Capítulo IV
 ** a) Articulação com o regime de reconhecimento e execução do Regulamento Bruxelas II /ter/
+A CH 1996 regula a competência, a lei aplicável, o reconhecimento (sem sentido amplo) e a cooperação em matéria de responsabilidade parental e medidas
+de protecção das crianças. O Regulamento Bruxelas II /ter/ regula a competência e o reconhecimento (em sentido amplo) em matéria matrimonial e em
+matéria de responsabilidade parental, bem como o rapto internacional de crianças. Há, por isso, uma coincidência parcial de matérias reguladas por estes dois instrumentos. Ambos regulam a competência e o reconhecimento (em sentido amplo) em matéria de responsabilidade parental. O conceito de responsabilidade parental adotado pelo Regulamento Bruxelas II /ter/ é inspirado no consagado pela CH 1996[cite:@almeida2022 pp. 21-22;@magnus2023a pp.86-87;@gomes2023 pp. 1561-1562].
+
+A articulação entre estes dois instrumentos efetua-se atendendo ao artigoo 52.º da CH 1996 (para cuja anotação se remete) e ao artigo 97.º do Regulamento Bruxelas II /ter/.
+
+Do meu artigo sobre o âmbito de aplicação
+A articulação com a Convenção da Haia de 1996 encontra-se prevista no artigo 97.º do Regulamento Bruxelas II ter. Estabelece-se que as regras de reconhecimento e execução do Regulamento Bruxelas II ter prevalecem sempre sobre as da Convenção da Haia de 1996, quando o Estado de origem e o Estado de reconhecimento sejam Estados-Membros da União Europeia vinculados ao Regulamento Bruxelas II ter 90. Esta solução — que parece visar uma mais fácil “circulação” das decisões no espaço europeu, assente no princípio da confiança mútua — acarreta, nos casos em que a criança tenha residência habitual num Estado terceiro que é um Estado contratante da Convenção da Haia de 1996, um risco de se reconhecerem decisões, ao abrigo do regime do Regulamento Bruxelas II ter, cujo reconhecimento poderia ser recusado ao abrigo do regime da Convenção da Haia de 1996 91.
+
+** b) Articulação com outros instrumentos supraestaduais
 ** b) Objeto do reconhecimento e execução
 *** aa) medidas de proteção
 *** bb) tomadas pelas autoridades de um Estado Contratante
@@ -51,7 +61,7 @@ Artigo 23.º
 ** d) Audição da pessoa com responsabilidades parentais
 ** e) Ordem pública internacional
 ** f) Incompatibilidade de medidas de proteção
-** g) Não cumprimento dos procedimentos previstos no artigo 33.º
+** g) Preterição dos procedimentos previstos no artigo 33.º
 * 4. Bibliografia
 #+print_bibliography:
 
