@@ -33,7 +33,7 @@
 
 #+end_quote
 
-*Sumário:* 1. Breves notas gerais sobre o Capítulo IV; a) Articulação com o regime de reconhecimento e execução do Regulamento Bruxelas II /ter/; b) Objeto do reconhecimento e execução; 2. Reconhecimento automático (n.º 1); 3. Fundamentos de recusa do reconhecimento (n.º 2); a) Aspetos gerais; b) Controlo da competência da autoridade de origem; c) Não audição da criança; d) Não audição da pessoa com responsabilidades parentais; e) Violação da ordem pública internacional; f) Incompatibilidade de medidas de proteção; g) Preterição dos procedimentos previstos no artigo 33.º.
+*Sumário:* 1. Breves notas gerais sobre o Capítulo IV; a) Articulação com o regime de reconhecimento e execução do Regulamento Bruxelas II /ter/; b) Objeto do reconhecimento e execução; 2. Reconhecimento automático (n.º 1); 3. Fundamentos de recusa do reconhecimento (n.º 2); a) Aspetos gerais; b) Controlo da competência da autoridade do Estado Contratante de origem; c) Não audição da criança; d) Não audição da pessoa com responsabilidades parentais; e) Violação da ordem pública internacional; f) Incompatibilidade de medidas de proteção; g) Preterição dos procedimentos previstos no artigo 33.º.
 
 * 1. Breves notas gerais sobre o Capítulo IV
 ** a) Articulação com o regime de reconhecimento e execução do Regulamento Bruxelas II /ter/
@@ -72,7 +72,7 @@ A medida de proteção tomada no Estado Contratante de origem estará, muitas ve
 ** a) Aspetos gerais
 O reconhecimento /pode/ ser recusado /se/ se verificar algum dos fundamentos enumerados no n.º 2 do artigo 23.º. Daqui resulta um regime com um pendor claramente favorável ao reconhecimento das medidas de proteção, uma vez que a enumeração dos fundamentos de recusa /é exaustiva/ e a verificação de um (ou mais) fundamentos de recusa /permite/ que a autoridade do Estado Contratante requerido recuse o reconhecimento, mas não o impõe [cite:cf. Ac. TRC 24/10/2023, proc. n.º 4/23.5YRCBR, Henrique Antunes; @lagarde1996, ponto 121]. Deste modo, a recusa do reconhecimento, quando possível, é uma decisão descricionária da autoridade do Estado Contratante requerido [cite:@hilbig-lugani2016, artigo 23.º, n.º 7].
 
-** b) Controlo da competência da autoridade de origem
+** b) Controlo da competência da autoridade do Estado Contratante de origem
 O reconhecimento pode ser recusado se a medida de proteção foi tomada por uma autoridade que não tem competência internacional ao abrigo da CH 1996. Este fundamento de recusa permite à autoridade do Estado Contratante requerido controlar a competência da autoridade do Estado Contratante que tomou a medida de proteção, estando, porém, vinculada à matéria de facto (cf. artigo 25.º e respetiva anotação). O facto de não ter sido invocada a falta de competência internacional junto da autoridade de origem ou de a medida de proteção ter sido tomada sem oposição não impedem a verificação deste fundamento de recusa, mas podem ser tomados em consideração pela autoridade do Estado Contratante requerido na sua decisão de recusa ou não do reconhecimento [cite:@hilbig-lugani2016, artigo 23.º, n.º 12].
 
 Para se verificar este fundamento de recusa /não/ basta que a autoridade do Estado Contratante de origem tenha fundado a sua competência internacional em /norma/ atributiva de competência internacional diversa das da CH 1996; é necessário que o /critério/ atributivo de competência internacional em que fundou a sua competência /não esteja/ previsto nas normas de competência internacional da CH 1996 [cite:cf., em sentido semelhante, @hilbig-lugani2016, artigo 23.º, n.º 14;@hcchpermanentbureau2018, ponto 10.5]. Isto é particularmente relevante no contexto da articulação com o Regulamento Bruxelas II /ter/. Veja-se o seguinte exemplo: os tribunais portugueses tomam uma medida de proteção relativa aos bens de uma criança residente habitualmente em Portugal. Essa criança tem bens em Marrocos. O reconhecimento da medida de proteção tomada pelos tribunais portugueses não deve ser recusado em Marrocos com base neste fundamento de recusa apenas porque os tribunais portugueses fundaram a sua competência internacional no artigo 7.º do Regulamento Bruxelas II /ter/. Apesar de a norma jurídica ser diferente, o critério atributivo da competência internacional (residência habitual da criança) está previsto no artigo 5.º da CH 1996 e, por isso, não se deve considerar verificado este fundamento de recusa.
@@ -123,9 +123,9 @@ O artigo 33.º da CH 1996 (para cuja anotação se remete) prevê um procediment
 #+print_bibliography:
 
 * 5. Lista de jurisprudência
-Ac. STJ 12/07/2011, proc. n.º 987/10.5YRLSB.S1, Paulo Sá
+Ac. STJ 12/07/2011, proc. n.º 987/10.5YRLSB.S1, Paulo Sá.
 
-Ac. TRC 24/10/2023, proc. n.º 4/23.5YRCBR, Henrique Antunes
+Ac. TRC 24/10/2023, proc. n.º 4/23.5YRCBR, Henrique Antunes.
 
 * Footnotes
 

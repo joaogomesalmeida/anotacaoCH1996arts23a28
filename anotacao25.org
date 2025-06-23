@@ -21,9 +21,27 @@ A autoridade do Estado requerido está vinculada legalmente à avaliação das p
 
 #+end_quote
 
-*Sumário:*
+*Sumário:* 1. Introdução; 2. Análise da norma.
+
 
 * 1. Introdução
-* 2. Proibição de controlo do mérito quanto ao fundamento da competência da autoridade de origem
-* X. Bibliografia
-* XX. Lista de jurisprudência
+Estabelece-se, no presente artigo, que a autoridade do Estado Contratante requerido está vinculada às decisões sobre a matéria de facto (/findings of fact/ e /constatations de fait/, nas versões oficiais da CH 1996 em língua inglesa e francesa) com base nas quais a autoridade do Estado Contratante de origem fundou a sua competência. Trata-se de um preceito ligado ao fundamento de recusa do reonhecimento assente no controlo da competência da autoridade do Estado Contratante de origem (cf. /supra/ 3.b) da anotação ao artigo 23.º da CH 1996).
+
+Em sede da Conferência da Haia, a origem desta norma pode encontrar-se, na atual formulação, no artigo 9.º da Convenção da Haia de 1973 sobre o Reconhecimento e Execução das Decisões Relativas às Obrigações Alimentares e, numa versão que incluía uma exceção para os casos de decisões proferidas à revelia, no artigo 9.º da Convenção da Haia de 1971 sobre o Reconhecimento e Execução de Sentenças Estrangeiras em Matéria Civil e Comercial.
+
+No contexto europeu, encontramos uma norma similar no artigo 28.º da Convenção de Bruxelas de 1968 relativa à Competência Judiciária e à Execução de Decisões em Matéria Civil e Comercial e no n.º 3 do artigo 45.º do Regulamento Bruxelas I /bis/. O Regulamento Bruxelas II /ter/ não contém norma semelhante porque suprimiu o controlo da competência do tribunal do Estado-Membro de origem do elenco dos fundamentos de recusa do reconhecimento.
+
+* 2. Análise da norma
+A norma visa evitar o recurso a manobras e expedientes dilatórios pela parte requerida no processo de reconhecimento ou de declaração de executoriedade [cite:@hilbig-lugani2016, artigo 25.º, n.º 1; no contexto da Convenção de Bruxelas, @jenard1979, p. 46; no contexto do Regulamento Bruxelas I /bis/, @mendes2022a p. 354; @pinheiro2019a p. 113].
+
+A norma vincula a autoridade do Estado Contratante requerido às decisões sobre a matéria de facto com base nas quais a autoridade que tomou a medida de proteção fundou a sua competência. Tal parece significar que a vinculação não opera quanto às decisões sobre matéria de facto que não foram utilizadas pela autoridade do Estado Contratante de origem para fundar a sua competência. O âmbito da matéria de facto relevante decorre das normas atributivas de competência internacional da CH 1996.
+
+A autoridade do Estado Contratante requerido está vinculada às decisões sobre a matéria de facto, mas não está vinculada às conclusões jurídicas que sobre essa matéria de facto efetuou a autoridade do Estado Contratante de origem [cite:cf., no contexto do Regulamento Bruxelas I /bis/, @mendes2022a p. 354; @magnus2023, artigo 45.º, n.º 134]. Assim, e por exemplo, a autoridade do Estado Contratante requerido está vinculada aos factos dados como provados relativos à presença, duração e vontade de permanecer no país de origem da criança, mas pode avaliar (autonomamente) se aqueles factos são, ou não, suficientes para concluir que a criança tem residência habitual no Estado Contratante de origem [cite:exemplo de @hilbig-lugani2016, artigo 25.º, n.º 4].
+
+A questão reveste maior complexidade nos casos em que a norma atributiva de competência internacional da CH 1996 pressupõe a realização de uma avaliação preliminar (por parte da autoridade do Estado Contratante de origem) do superior interesse da criança (cf. n.º 4 do artigo 8.º, n.º 1 do artigo 9.º e alínea /b)/ do n.º 1 do artigo 10.º da CH 1996). O Relatório Explicativo advoga que, neste caso, a autoridade do Estado Contratante requerido se deve considerar vinculada pela avaliação preliminar do superior interesse da criança efetuada pela autoridade do Estado Contratante de origem [cite:@lagarde1996, ponto 131]. Esta solução pode suscitar dúvidas, porque o superior interesse da criança não é um facto, mas sim um princípio jurídico. Ainda assim, e atendendo à complexidade da avaliação do superior interesse da criança, não parece adequado permitir a sua substituição por uma (nova) avaliação da autoridade do Estado Contratante requerido em sede de controlo da competência da autoridade do Estado Contratante de origem [cite:@hilbig-lugani2016, artigo 25.º, n.º 5]. O Relatório Explicativo informa ainda que uma proposta da Delegação Suíça que precisava este ponto foi rejeitada por o mesmo ter sido considerado evidente e por isso ser desnecessária a sua inclusão no texto da norma [cite:@lagarde1996, ponto 131, nota de rodapé n.º 62].
+
+Esta norma é ineficaz se a autoridade do Estado Contratante de origem não especificar, na medida de proteção tomada, quais foram os factos em que fundou a sua competência [cite:@lagarde1996, ponto 131;@hilbig-lugani2016, artigo 25.º, n.º 2]. Nesta situação, a vinculação parece não operar, pois a autoridade do Estado Contratante requerido não consegue apreender quais os factos em que a autoridade do Estado Contratante de origem fundou a sua competência [cite:cf., no contexto do Regulamento Bruxelas I /bis/, @magnus2023, artigo 45.º, n.º 135]. Por este motivo, deve ser considerada uma boa prática a indicação precisa pela autoridade do Estado Contratante de origem dos factos em que fundou a sua competência [cite:@borras2013, ponto 547].
+
+* 3. Bibliografia
+#+print_bibliography:
+
