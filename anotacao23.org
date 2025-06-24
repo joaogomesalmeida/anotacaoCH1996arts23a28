@@ -70,7 +70,7 @@ A medida de proteção tomada no Estado Contratante de origem estará, muitas ve
 
 * 3. Fundamentos de recusa do reconhecimento (n.º 2)
 ** a) Aspetos gerais
-O reconhecimento /pode/ ser recusado /se/ se verificar algum dos fundamentos enumerados no n.º 2 do artigo 23.º. Daqui resulta um regime com um pendor claramente favorável ao reconhecimento das medidas de proteção, uma vez que a enumeração dos fundamentos de recusa /é exaustiva/ e a verificação de um (ou mais) fundamentos de recusa /permite/ que a autoridade do Estado Contratante requerido recuse o reconhecimento, mas não o impõe [cite:cf. Ac. TRC 24/10/2023, proc. n.º 4/23.5YRCBR, Henrique Antunes; @lagarde1996, ponto 121]. Deste modo, a recusa do reconhecimento, quando possível, é uma decisão descricionária da autoridade do Estado Contratante requerido [cite:@hilbig-lugani2016, artigo 23.º, n.º 7].
+O reconhecimento /pode/ ser recusado /se/ se verificar algum dos fundamentos enumerados no n.º 2 do artigo 23.º. Daqui resulta um regime com um pendor claramente favorável ao reconhecimento das medidas de proteção, uma vez que a enumeração dos fundamentos de recusa /é exaustiva/ e a verificação de um (ou mais) fundamentos de recusa /permite/ que a autoridade do Estado Contratante requerido recuse o reconhecimento, mas não o impõe [cite:cf. Ac. TRC 24/10/2023, proc. n.º 4/23.5YRCBR, Henrique Antunes; @lagarde1996, ponto 121]. Deste modo, a recusa do reconhecimento, quando possível, é uma decisão descricionária da autoridade do Estado Contratante requerido [cite:/F v M [2018] EWHC 2106 (Fam)/, para. 63, e @hilbig-lugani2016, artigo 23.º, n.º 7].
 
 ** b) Controlo da competência da autoridade do Estado Contratante de origem
 O reconhecimento pode ser recusado se a medida de proteção foi tomada por uma autoridade que não tem competência internacional ao abrigo da CH 1996. Este fundamento de recusa permite à autoridade do Estado Contratante requerido controlar a competência da autoridade do Estado Contratante que tomou a medida de proteção, estando, porém, vinculada à matéria de facto (cf. artigo 25.º e respetiva anotação). O facto de não ter sido invocada a falta de competência internacional junto da autoridade de origem ou de a medida de proteção ter sido tomada sem oposição não impedem a verificação deste fundamento de recusa, mas podem ser tomados em consideração pela autoridade do Estado Contratante requerido na sua decisão de recusa ou não do reconhecimento [cite:@hilbig-lugani2016, artigo 23.º, n.º 12].
@@ -126,6 +126,8 @@ O artigo 33.º da CH 1996 (para cuja anotação se remete) prevê um procediment
 Ac. STJ 12/07/2011, proc. n.º 987/10.5YRLSB.S1, Paulo Sá.
 
 /NG v OG [2014] EWHC 4182 (Fam)/, disponível em https://www.bailii.org/ew/cases/EWHC/Fam/2014/4182.html e consultado pela última vez em 24 de junho de 2025.
+
+/F v M [2018] EWHC 2106 (Fam)/, disponível em https://www.bailii.org/ew/cases/EWHC/Fam/2018/2106.html e consultado pela última vez em 24 de junho de 2025.
 
 /Uhd v McKay [2019] EWHC 1239 (Fam)/, disponível em https://www.bailii.org/ew/cases/EWHC/Fam/2019/1239.html e consultado pela última vez em 24 de junho de 2025.
 
