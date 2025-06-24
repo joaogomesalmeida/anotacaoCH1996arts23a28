@@ -1,4 +1,4 @@
-#+title: Anotação artigo 27.º da CH1996
+#+title: Anotação ao artigo 27.º da CH1996
 #+author: João Gomes de Almeida
 #+LANGUAGE: pt
 #+OPTIONS: toc:nil num:nil author:nil date:nil title:nil
@@ -14,7 +14,7 @@
 #+begin_quote
 
 #+begin_center
-Artigo 27.º
+*Artigo 27.º*
 #+end_center
 
 Sem prejuízo da análise que seja necessária para a aplicação dos artigos precedentes, não haverá qualquer revisão quanto ao mérito da medida tomada.

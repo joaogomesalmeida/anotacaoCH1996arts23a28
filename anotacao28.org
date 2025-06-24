@@ -14,7 +14,7 @@
 #+begin_quote
 
 #+begin_center
-Artigo 28.º
+*Artigo 28.º*
 #+end_center
 
 As medidas tomadas num Estado Contratante, declaradas executórias, ou registadas para fins de execução num outro Estado Contratante, serão executadas nesse último Estado Contratante como se tivessem sido tomadas pelas autoridades desse Estado. A execução das medidas far-se-á em conformidade com a lei do Estado requerido nos termos previstos pela respectiva lei, tomando em consideração os melhores interesses da criança.
@@ -24,9 +24,6 @@ As medidas tomadas num Estado Contratante, declaradas executórias, ou registada
 *Sumário:*
 
 * 1. Introdução
-Isto é um teste para ver como funciona a citação bibliográfica [cite:@knapp2024 p. 103] [cite:@pinheiro2021 pp. 224-225].
-** a) Subsecção
-*** aa) Subsubsecção
 * 2.
 * 3. Bibliografia
 #+print_bibliography:
