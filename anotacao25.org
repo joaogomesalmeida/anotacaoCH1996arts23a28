@@ -21,8 +21,7 @@ A autoridade do Estado requerido está vinculada legalmente à avaliação das p
 
 #+end_quote
 
-*Sumário:* 1. Introdução; 2. Análise da norma.
-
+*Sumário:* 1. Introdução; 2. Análise da norma; 3. Bibliografia.
 
 * 1. Introdução
 Estabelece-se, no presente artigo, que a autoridade do Estado Contratante requerido está vinculada às decisões sobre a matéria de facto (/findings of fact/ e /constatations de fait/, nas versões oficiais da CH 1996 em língua inglesa e francesa) com base nas quais a autoridade do Estado Contratante de origem fundou a sua competência. Trata-se de um preceito ligado ao fundamento de recusa do reonhecimento assente no controlo da competência da autoridade do Estado Contratante de origem (cf. /supra/ 3.b) da anotação ao artigo 23.º da CH 1996).
@@ -32,7 +31,7 @@ Em sede da Conferência da Haia, a origem desta norma pode encontrar-se, na atua
 No contexto europeu, encontramos uma norma similar no artigo 28.º da Convenção de Bruxelas de 1968 relativa à Competência Judiciária e à Execução de Decisões em Matéria Civil e Comercial e no n.º 3 do artigo 45.º do Regulamento Bruxelas I /bis/. O Regulamento Bruxelas II /ter/ não contém norma semelhante porque suprimiu o controlo da competência do tribunal do Estado-Membro de origem do elenco dos fundamentos de recusa do reconhecimento.
 
 * 2. Análise da norma
-A norma visa evitar o recurso a manobras e expedientes dilatórios pela parte requerida no processo de reconhecimento ou de declaração de executoriedade [cite:@hilbig-lugani2016, artigo 25.º, n.º 1; no contexto da Convenção de Bruxelas, @jenard1979, p. 46; no contexto do Regulamento Bruxelas I /bis/, @mendes2022a p. 354; @pinheiro2019a p. 113].
+A norma visa evitar o recurso a manobras e expedientes dilatórios pela parte requerida no processo de reconhecimento ou de declaração de executoriedade [cite:@hilbig-lugani2016, artigo 25.º, n.º 1; no contexto da Convenção de Bruxelas, @jenard1990, p. 163; no contexto do Regulamento Bruxelas I /bis/, @mendes2022a p. 354; @pinheiro2019a p. 113].
 
 A norma vincula a autoridade do Estado Contratante requerido às decisões sobre a matéria de facto com base nas quais a autoridade que tomou a medida de proteção fundou a sua competência. Tal parece significar que a vinculação não opera quanto às decisões sobre matéria de facto que não foram utilizadas pela autoridade do Estado Contratante de origem para fundar a sua competência. O âmbito da matéria de facto relevante decorre das normas atributivas de competência internacional da CH 1996.
 
